@@ -32,5 +32,5 @@ For the past 3+ years, I’ve been deep into software development, cracking apps
 
 ## 📫 Connect with Me
 I'm opened for suggestions! If you want partnership feel free to contact me.
-- 📧 Email: bkhonel@proton.me
+- 📧 Email: prata.rumble391@passinbox.com
 - 💼 Telegram: [@khonel](https://t.me/khonel)
