@@ -34,9 +34,3 @@ For the past 3+ years, I’ve been deep into software development, cracking apps
 I'm opened for suggestions! If you want partnership feel free to contact me.
 - 📧 Email: bkhonel@proton.me
 - 💼 Telegram: [@khonel](https://t.me/khonel)
-
----
-
-> “To understand how it works, take it apart.  
-> To make it better, rebuild it your way.”  
-> — Petra
