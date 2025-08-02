@@ -32,7 +32,7 @@ For the past 3+ years, I’ve been deep into software development, cracking apps
 
 ## 📫 Connect with Me
 I'm opened for suggestions! If you want partnership feel free to contact me.
-- 📧 Email: [@khonel](bkhonel@proton.me) 
+- 📧 Email: bkhonel@proton.me
 - 💼 Telegram: [@khonel](https://t.me/khonel)
 
 ---
